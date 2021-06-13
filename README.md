@@ -28,6 +28,8 @@
 
 ![image](https://user-images.githubusercontent.com/84431598/121816961-486ede80-cc44-11eb-9b08-0df856f0c89e.png)
 
+Necesitamos tener todas las resistencias en una sola unidad por lo tanto se convierte de kΩ a Ω
+
 
 
 ## 5. VIDEO
