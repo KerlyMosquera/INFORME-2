@@ -34,7 +34,8 @@ El método de malla consiste en asignar a cada una de las mallas de cicuito de u
 
 Necesitamos tener todas las resistencias en una sola unidad por lo tanto se convierte de kΩ a Ω
 
-![image](https://user-images.githubusercontent.com/84431598/121817427-101ccf80-cc47-11eb-9bc9-6541e527a379.png)
+![image](https://user-images.githubusercontent.com/84431598/121819894-47927880-cc55-11eb-8897-e7b227ff3c1a.png)
+
 
 ### PLANTEAMIENTO DE LAS ECUACIONES
 Una  vez definidas las corrientes  de mallas del circuito y establecidas las corrientes de las ramas y sus voltajes se plantea una ecuacion para cada malla en este caso 3 mallas .
