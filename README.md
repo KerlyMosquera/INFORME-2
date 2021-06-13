@@ -53,6 +53,8 @@ Una  vez definidas las corrientes  de mallas del circuito y establecidas las cor
 
 #### SISTEMA DE ECUACIONES
 
+![image](https://user-images.githubusercontent.com/84431598/121819451-bfab6f00-cc52-11eb-9ed1-a90c050ecc3d.png)
+
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
