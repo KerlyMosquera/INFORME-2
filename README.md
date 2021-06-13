@@ -49,7 +49,8 @@ Una  vez definidas las corrientes  de mallas del circuito y establecidas las cor
 
 #### MALLA 3
 
-![image](https://user-images.githubusercontent.com/84431598/121819273-c5ed1b80-cc51-11eb-9bb1-5e08fe331f95.png)
+![image](https://user-images.githubusercontent.com/84431598/121819563-66900b00-cc53-11eb-91c1-bd9db345559c.png)
+
 
 #### SISTEMA DE ECUACIONES
 
