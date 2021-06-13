@@ -73,5 +73,5 @@ Realizando las conversiones de A a mA se tiene:
 
 ## 7. BIBLIOGRAFÍA
 
-Ayllón Fandiño, E. (1987). Fundamentos de la teoría de los circuitos eléctricos II. La Habana: Pueblo y Educación.
+Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos II.* La Habana: Pueblo y Educación.
 
