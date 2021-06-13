@@ -39,6 +39,8 @@ Necesitamos tener todas las resistencias en una sola unidad por lo tanto se conv
 ### PLANTEAMIENTO DE LAS ECUACIONES
 Una  vez definidas las corrientes  de mallas del circuito y establecidas las corrientes de las ramas y sus voltajes se plantea una ecuacion para cada malla en este caso 3 mallas .
 
+####  MALLA 1
+
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
