@@ -15,6 +15,8 @@
 
 ### 3.1 MATERIALES Y EQUIPOS
 
+![image](https://user-images.githubusercontent.com/84431598/121798020-7bd04f80-cbe9-11eb-8628-5a9bead606fe.png)
+
 ### 3.2 PROCEDIMIENTO
 
 
