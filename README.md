@@ -26,6 +26,9 @@
 
 ### 4.2 CÁLCULOS
 
+![image](https://user-images.githubusercontent.com/84431598/121816928-1493b900-cc44-11eb-91cf-99a2f9ba78cd.png)
+
+
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
