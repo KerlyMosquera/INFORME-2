@@ -41,7 +41,8 @@ Una  vez definidas las corrientes  de mallas del circuito y establecidas las cor
 
 ####  MALLA 1
 
-![image](https://user-images.githubusercontent.com/84431598/121818733-938def00-cc4e-11eb-81ac-e5ea1969a4e5.png)
+![image](https://user-images.githubusercontent.com/84431598/121819718-3bf28200-cc54-11eb-9dab-6b1ac748e11a.png)
+
 
 #### MALLA 2
 
