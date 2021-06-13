@@ -62,6 +62,10 @@ Resolviendo el sistema se obtiene:
 
 ![image](https://user-images.githubusercontent.com/84431598/121822151-1d47b780-cc63-11eb-849b-fb2bd51833aa.png)
 
+Realizando las conversiones de A a mA se tiene:
+
+![image](https://user-images.githubusercontent.com/84431598/121822410-94318000-cc64-11eb-888a-9bf9d072e076.png)
+
 
 ## 5. VIDEO
 
