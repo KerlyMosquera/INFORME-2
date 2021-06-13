@@ -30,6 +30,9 @@
 
 Necesitamos tener todas las resistencias en una sola unidad por lo tanto se convierte de kΩ a Ω
 
+![image](https://user-images.githubusercontent.com/84431598/121817427-101ccf80-cc47-11eb-9bc9-6541e527a379.png)
+
+
 
 
 ## 5. VIDEO
