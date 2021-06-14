@@ -7,6 +7,7 @@
  
 #### OBJETIVOS ESPECÍFICOS
 
+- Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes y voltajes.
 
 ## 2.MARCO TEÓRICO
 
