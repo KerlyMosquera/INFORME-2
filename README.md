@@ -79,10 +79,21 @@ Realizando las conversiones de A a mA se tiene:
 
 ![image](https://user-images.githubusercontent.com/84431598/121822410-94318000-cc64-11eb-888a-9bf9d072e076.png)
 
-### 4.3 Compare los valores de la tabla 2.1 y realice sus conclusiones.
+### 4.3 Cálculo del error
+
+![image](https://user-images.githubusercontent.com/84425276/121963343-96acdc00-cd2f-11eb-992f-bbe0c48ba140.png)
+
+### 4.4 Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
+
+- Los valores medidos y los valores calculados coinciden con un mínimo error.
+
+- De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 
 ## 7. BIBLIOGRAFÍA
 
