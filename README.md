@@ -13,11 +13,23 @@
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 
-### 3.1 MATERIALES Y EQUIPOS
+#### 3.1 MATERIALES Y EQUIPOS
 
 ![image](https://user-images.githubusercontent.com/84431598/121798020-7bd04f80-cbe9-11eb-8628-5a9bead606fe.png)
 
-### 3.2 PROCEDIMIENTO
+#### 3.2 PROCEDIMIENTO
+
+3.2.1 Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/84425276/121952618-1b90f900-cd22-11eb-931f-57f9e7eb01d9.png)
+
+3.2.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+
+
+3.2.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
+
+
+
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
@@ -66,7 +78,7 @@ Realizando las conversiones de A a mA se tiene:
 
 ![image](https://user-images.githubusercontent.com/84431598/121822410-94318000-cc64-11eb-888a-9bf9d072e076.png)
 
-
+### 4.3 Compare los valores de la tabla 2.1 y realice sus conclusiones.
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
