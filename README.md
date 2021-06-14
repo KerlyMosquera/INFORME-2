@@ -13,7 +13,6 @@
 
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
-
 #### 3.1 MATERIALES Y EQUIPOS
 
 ![image](https://user-images.githubusercontent.com/84431598/121798020-7bd04f80-cbe9-11eb-8628-5a9bead606fe.png)
@@ -28,15 +27,25 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/121957209-b809ca00-cd27-11eb-961c-fdf08ddddca7.png)
 
+    *Figura 1: Medición de corriente*
+
 3.2.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 4.1.
 
 ![image](https://user-images.githubusercontent.com/84425276/121957542-29497d00-cd28-11eb-9116-dbd14905d205.png)
+
+    *Figura 2: Simulación en Tinkercad*
+   
+   
+   
+    *Figura 3: Simulación en Proteus*
 
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE MALLAS
 
 ![image](https://user-images.githubusercontent.com/84425276/121957762-76c5ea00-cd28-11eb-8804-1bf1666ef45f.png)
+
+    *Figura 4: Simulación del circuito*
 
 #### Tabla 4.1. Resultados obtenidos para el circuito de la figura 2.1.
 
