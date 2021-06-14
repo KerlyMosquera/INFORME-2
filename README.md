@@ -37,6 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/121957762-76c5ea00-cd28-11eb-8804-1bf1666ef45f.png)
 
+#### Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/84425276/121964481-3ae35280-cd31-11eb-9fbe-612a3e8b532a.png)
+
 ### 4.2 CÁLCULOS
 
 ###  EXPLICACIÓN DE MÉTODO
