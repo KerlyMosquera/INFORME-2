@@ -9,6 +9,8 @@
 
 - Examinar el método de análisis de mallas como herramientas en la resolución de circuitos eléctricos.
 - Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes.
+- Realizar comparaciones entre los datos análiticos, simulados y experimentados usando  el método de análisis de mallas.
+- Comprobar la efectividad y facilidad del uso del Método de análisis de mallas.
 
 ## 2.MARCO TEÓRICO
 
