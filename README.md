@@ -120,6 +120,7 @@ Realizando las conversiones de A a mA y uA se tiene:
 ## 5. VIDEO
 
 
+https://youtu.be/SyGmZw7zaUQ
 
 
 ## 6. CONCLUSIONES
