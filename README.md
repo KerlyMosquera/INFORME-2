@@ -118,3 +118,5 @@ Realizando las conversiones de A a mA y uA se tiene:
 
 Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos II.* La Habana: Pueblo y Educación.
 
+Alexander and M. N. Sadiku, * Fundamentos de Circuitos eléctricos*, 3rd ed. Ciudad de México, México: McGraw Hill, 2004.
+
