@@ -3,11 +3,10 @@
 ## 1. OBJETIVOS
  
 #### OBJETIVO GENERAL
- Aplicar los conocimientos anteriormente obtenidos como son La Ley de Kirchhoff y Ley de Ohm ya que será gran utilidad para el análisis de mallas.
 
-Aplicando el metodo de mallas comprovaremos las medicones en simulacion y en calculos
+- Aplicar los conocimientos anteriormente obtenidos como son La Ley de Kirchhoff y Ley de Ohm ya que será de gran utilidad para el análisis de mallas.
 
-Se relizara en un circuito mixto el cual se dividira en mallas para su mediones y sus calculos 
+- Aplicar el método de mallas para comprovar las medicones en la simulacion y en los cálculos.
  
 #### OBJETIVOS ESPECÍFICOS
 
@@ -55,13 +54,14 @@ Se relizara en un circuito mixto el cual se dividira en mallas para su mediones 
 
 
    *Figura 4: Simulación en Real*
+  
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE MALLAS
 
 ![image](https://user-images.githubusercontent.com/84425276/121957762-76c5ea00-cd28-11eb-8804-1bf1666ef45f.png)
 
-   *Figura 4: Simulación del circuito*
+   *Figura 5: Simulación del circuito*
 
 #### Tabla 4.1. Resultados obtenidos para el circuito de la figura 2.1.
 
@@ -81,7 +81,7 @@ Necesitamos tener todas las resistencias en una sola unidad por lo tanto se conv
 
 
 ### PLANTEAMIENTO DE LAS ECUACIONES
-Una  vez definidas las corrientes  de mallas del circuito y establecidas las corrientes de las ramas y sus voltajes se plantea una ecuacion para cada malla en este caso 3 mallas .
+Una  vez definidas las corrientes  de mallas del circuito y establecidas las corrientes de las ramas y sus voltajes se plantea una ecuacion para cada malla en este caso 3 mallas.
 
 ####  MALLA 1
 
@@ -126,16 +126,16 @@ https://youtu.be/SyGmZw7zaUQ
 ## 6. CONCLUSIONES
 
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
-- De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 - Para realizar esta práctica de laboratorio fueron necesarios concocimientos previos como son: La ley de Kirchhoff, expresa que la suma de voltajes tiene que ser igual a cero, y la Ley de Ohm  que nos dice que el voltaje es igual a la corriente por la resistencia.
 - Se pudo comparar en un simulacion real que las medicones de cada intecidad  pueden variar por milecimas a dferencia de los resultados objetidosen calculos 
-- Con la aplicaion del metodo de mallas comprovamos que la intesidad del circuito mas una sola direcion.
+- Con la aplicaion del método de mallas comprovamos que la intesidad del circuito va en  una sola dirección.
+- De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 
 ## 7. BIBLIOGRAFÍA
 
 Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos II.* La Habana: Pueblo y Educación.
 
-Robbins, A y Miller, W. (2007). Análisis de circuitos teoría y práctica (4ta ed,).México DF, México: Cengage Learning.
+Robbins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed,).* México DF, México: Cengage Learning.
 
 
 
