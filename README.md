@@ -11,6 +11,9 @@
 
 ## 2.MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/84431598/121991018-6b90af80-cd64-11eb-921f-d55528170504.png)
+
+
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 #### 3.1 MATERIALES Y EQUIPOS
