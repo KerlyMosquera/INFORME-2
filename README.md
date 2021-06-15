@@ -7,6 +7,7 @@
  
 #### OBJETIVOS ESPECÍFICOS
 
+- Examinar el método de análisis de mallas como herramientas en la resolución de circuitos eléctricos.
 - Verificar que los valores medidos en la práctica realizada en el simulador Tinkercad coincidan con los valores calculados de las corrientes.
 
 ## 2.MARCO TEÓRICO
