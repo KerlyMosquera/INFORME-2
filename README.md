@@ -4,6 +4,10 @@
  
 #### OBJETIVO GENERAL
  Aplicar los conocimientos anteriormente obtenidos como son La Ley de Kirchhoff y Ley de Ohm ya que será gran utilidad para el análisis de mallas.
+
+Aplicando el metodo de mallas comprvaremos las medicones en simulacion y en calculos
+
+Se relizara en un circuito mixto el cual se difivira en mallas para su pediones y sus calculos 
  
 #### OBJETIVOS ESPECÍFICOS
 
@@ -45,6 +49,12 @@
  
    *Figura 3: Simulación en Proteus*
 
+![image](https://user-images.githubusercontent.com/84458025/122090305-3ff5df80-cdcd-11eb-92f2-6bf0799078d1.png)
+
+![image](https://user-images.githubusercontent.com/84458025/122090306-3ff5df80-cdcd-11eb-9990-042c158ea247.png)
+
+
+   *Figura 4: Simulación en Real*
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ### 4.1  CIRCUITO PARA EL ANÁLISIS DE MALLAS
@@ -109,12 +119,16 @@ Realizando las conversiones de A a mA y uA se tiene:
 
 ## 5. VIDEO
 
+
+
+
 ## 6. CONCLUSIONES
 
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 - Para realizar esta práctica de laboratorio fueron necesarios concocimientos previos como son: La ley de Kirchhoff, expresa que la suma de voltajes tiene que ser igual a cero, y la Ley de Ohm  que nos dice que el voltaje es igual a la corriente por la resistencia.
-
+- Se pudo comparar en un simulacion real que las medicones de cada intecidad  pueden variar por milecimas a dferencia de los resultados objetidosen calculos 
+- Con la aplicaion del metodo de mallas comprovamos que la intesidad del circuito mas una sola direcion.
 
 ## 7. BIBLIOGRAFÍA
 
