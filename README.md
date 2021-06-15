@@ -2,8 +2,8 @@
 
 ## 1. OBJETIVOS
  
-
 #### OBJETIVO GENERAL
+ Aplicar los conocimientos anteriormente obtenidos como son La Ley de Kirchhoff y Ley de Ohm ya que será gran utilidad para el análisis de mallas.
  
 #### OBJETIVOS ESPECÍFICOS
 
@@ -110,13 +110,13 @@ Realizando las conversiones de A a mA y uA se tiene:
 ## 6. CONCLUSIONES
 
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
-
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
 - Para realizar esta práctica de laboratorio fueron necesarios concocimientos previos como son: La ley de Kirchhoff, expresa que la suma de voltajes tiene que ser igual a cero, y la Ley de Ohm  que nos dice que el voltaje es igual a la corriente por la resistencia.
+
 
 ## 7. BIBLIOGRAFÍA
 
 Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos II.* La Habana: Pueblo y Educación.
 
-Alexander and M. N. Sadiku, * Fundamentos de Circuitos eléctricos*, 3rd ed. Ciudad de México, México: McGraw Hill, 2004.
+
 
