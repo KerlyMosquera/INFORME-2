@@ -38,8 +38,8 @@
 
    *Figura 2: Simulación en Tinkercad*
    
-   
-   
+  ![image](https://user-images.githubusercontent.com/84431598/121991203-d641eb00-cd64-11eb-9f46-dd6cd81f218e.png)
+ 
    *Figura 3: Simulación en Proteus*
 
 ## 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
