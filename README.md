@@ -5,9 +5,9 @@
 #### OBJETIVO GENERAL
  Aplicar los conocimientos anteriormente obtenidos como son La Ley de Kirchhoff y Ley de Ohm ya que será gran utilidad para el análisis de mallas.
 
-Aplicando el metodo de mallas comprvaremos las medicones en simulacion y en calculos
+Aplicando el metodo de mallas comprovaremos las medicones en simulacion y en calculos
 
-Se relizara en un circuito mixto el cual se difivira en mallas para su pediones y sus calculos 
+Se relizara en un circuito mixto el cual se dividira en mallas para su mediones y sus calculos 
  
 #### OBJETIVOS ESPECÍFICOS
 
